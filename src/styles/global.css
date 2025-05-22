@@ -7,6 +7,11 @@ html {
   font-family: sans-serif;
 }
 
+html.dark {
+  background: #14141d;
+  color: #fff;
+}
+
 body {
   width: 100%;
   max-width: 80ch;
@@ -23,6 +28,10 @@ h1 {
 img {
   width: 100%;
   display: block;
+}
+
+.dark .nav-links a {
+  color: #fff;
 }
 
 /* nav styles */
