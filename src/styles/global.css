@@ -10,10 +10,14 @@ html {
 html.dark {
   background: #14141d;
   color: #fff;
-}
 
-html.dark a {
-  color: #fff;
+  a {
+    color: #fff;
+  }
+
+  .tag a {
+    color: #00539f;
+  }
 }
 
 body {
