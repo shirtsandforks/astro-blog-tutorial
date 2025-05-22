@@ -9,7 +9,7 @@ image:
 image2:
   url: "https://docs.astro.build/assets/rays.webp"
   alt: "The Astro logo on a dark background with rainbow rays."
-pubDate: 21-05-2025
+pubDate: 2025-05-21
 tags: ["astro", "successes"]
 ---
 
